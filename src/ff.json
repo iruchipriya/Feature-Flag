@@ -1,0 +1,8 @@
+{
+  "applePay": {
+    "enabled": true
+  },
+  "gpay": {
+    "enabled": false
+  }
+}
